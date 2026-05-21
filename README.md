@@ -12,9 +12,6 @@
   <img src="https://img.shields.io/badge/prerequisite-python%20basics-orange" alt="Python basics only">
   <img src="https://img.shields.io/badge/architecture-LLaMA%203%20style-purple" alt="LLaMA 3 style">
   <img src="https://img.shields.io/badge/purpose-learning%20only-lightgrey" alt="Learning only">
-</p>
-
-<p align="center">
   <a href="https://colab.research.google.com/github/raiyanyahya/how-to-train-your-gpt/blob/master/notebooks/colab_train.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="25">
   </a>
